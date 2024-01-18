@@ -1,0 +1,13 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "Final project for my Gen AI certificate",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Douglas Wade <douglas.b.wade@gmail.com>",
+  "license": "MIT"
+}
